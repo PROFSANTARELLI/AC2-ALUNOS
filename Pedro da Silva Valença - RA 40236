@@ -1,0 +1,242 @@
+{
+  "id": "bc81ef6d-b8da-47c0-a7f6-62590f05cc2d",
+  "version": "2.0",
+  "name": "TESTE QA ",
+  "url": "https://fecaf.brightspace.com",
+  "tests": [{
+    "id": "b5eede27-b7b4-41e8-9848-aa5a0fb97834",
+    "name": "PEDRO DA SILVA VALENÇA AC2-ALUNOS",
+    "commands": [{
+      "id": "71b1cc7a-e105-40bb-90d2-01a1a95de0e7",
+      "comment": "",
+      "command": "open",
+      "target": "/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "64017f87-eb96-49dc-85d4-d7de9e1f522d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x728",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cc989b5e-f96e-4d0a-8a1d-c6a41c9e4df9",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "57c7e036-4206-4953-8ff1-cadc4233b9c5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "8f5a7d33-7d0c-4325-89ae-21d245aa1e6c",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "98361d8b-fea1-42dd-a1b6-2a5d9e30cbff",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0d78ba0a-48da-4c5f-b60e-3e8ce2637ef5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "2e3b7b2b-dd6d-488a-9653-f6e713d8d16d",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": ""
+    }, {
+      "id": "cbe4a765-acb0-47e4-aba2-32c1b939f085",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": "385.5625,135.984375"
+    }, {
+      "id": "1e814667-22d8-464e-8971-cdb0e3882d8b",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": "385.5625,135.984375"
+    }, {
+      "id": "83f835df-b8aa-4e23-80da-da4eb27738f6",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": "385.5625,135.984375"
+    }, {
+      "id": "940063ff-0ff7-4cda-9402-374d8353d32b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de7ea255-ffef-40e6-a7b8-bc3545f27c32",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "59a29340-5b3b-4811-81c4-44f236c90f23",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "61f0a9e0-df71-4bad-a58a-3081a659c708",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2e829ee7-c04b-4d4b-bb8f-e982efbed88b",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1a7be5b8-ca6c-4dee-910d-7361907d0d8c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b118ec22-e996-4bba-9d00-e9da0793b1a0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9da5b08f-283d-4cc6-80ca-5494093fc2d2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8e048b9e-1496-4b4b-b0a6-ee7cdbf0a224",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "068df7f6-8d78-495c-8a33-9b9a938c853b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.d2l-quiz-attempt-buttons",
+      "targets": [
+        ["css=.d2l-quiz-attempt-buttons", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]", "xpath:idRelative"],
+        ["xpath=//div[33]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6b3a45ff-0779-4b8d-9b08-81d1298f64c3",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b5eede27-b7b4-41e8-9848-aa5a0fb97834"]
+  }],
+  "urls": ["https://fecaf.brightspace.com/"],
+  "plugins": []
+}
