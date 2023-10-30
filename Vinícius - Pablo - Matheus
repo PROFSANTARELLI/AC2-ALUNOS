@@ -1,0 +1,262 @@
+{
+  "id": "45cdd922-eb24-4363-9b0f-c6e363e65dee",
+  "version": "2.0",
+  "name": "Projeto PMV",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9d34777-7f80-41b3-a6fc-a7981c2f3b06",
+    "name": "Untitled",
+    "commands": []
+  }, {
+    "id": "9fd7db19-7c23-462c-9e54-4de47d3fd07d",
+    "name": "PMV",
+    "commands": [{
+      "id": "af2c7548-8e76-4e86-b16e-8adc53f3a848",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e94aae68-f7d0-4d87-8eed-44d8fbc50bfb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x728",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6be60029-2aac-48fe-b772-ac3e87c969d3",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "325ede2a-935f-4f10-a282-8610c8aa79b4",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "190a0e32-27a1-4e5e-86ad-59f3fc7261d5",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dfdf20c0-95b6-4154-9b1f-3f00466905bd",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "f49fcc2a-1740-4dce-b838-da8c6521ae5e",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": ""
+    }, {
+      "id": "367493c4-61a1-4b60-9240-348c6e697f1b",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ddbdc529-f55a-4d74-9a7d-c381641bb7ea",
+      "comment": "",
+      "command": "type",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Vinícius Corrêa Bispo 40938\\nPablo Medeiros Domingues 40551\\nMatheus Viana Feitosa 39647"
+    }, {
+      "id": "aa3f50f5-4918-42b1-b9fb-731da9655def",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106954_118411_o6349_id",
+      "targets": [
+        ["id=tAtom106954_118411_o6349_id", "id"],
+        ["css=#tAtom106954_118411_o6349_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106954_118411_o6349_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[10]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2b2561b8-3b46-4f05-a853-3732b12ba93d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106955_118412_o1526_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106955_118412_o1526_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106955_118412_o1526_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[13]/div/div[8]/fieldset/div/table/tbody/tr/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e76c986e-4d5a-4f92-9d5f-07af06980937",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106956_118414_o7318_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106956_118414_o7318_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106956_118414_o7318_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[16]/div/div[8]/fieldset/div/table/tbody/tr[3]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ea99118-908c-4206-885f-dc3c938f04df",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106957_118416_o6162_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106957_118416_o6162_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106957_118416_o6162_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[19]/div/div[8]/fieldset/div/table/tbody/tr[4]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4845e8f4-a6e5-4bc3-8c82-f07bc9477a03",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_cb",
+      "targets": [
+        ["id=z_cb", "id"],
+        ["css=#z_cb", "css:finder"],
+        ["xpath=//label[@id='z_cb']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[22]/div/div[8]/fieldset/div/table/tbody/tr/td[2]/label", "xpath:idRelative"],
+        ["xpath=//td[2]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Verdadeiro')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "441e8373-52f8-408a-85a1-0ea138fbaa90",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_ci",
+      "targets": [
+        ["id=z_ci", "id"],
+        ["css=#z_ci", "css:finder"],
+        ["xpath=//label[@id='z_ci']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/label", "xpath:idRelative"],
+        ["xpath=//div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/label", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f48442eb-ebb7-43ac-bf4e-cf01d900755d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106960_118419_o1566_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106960_118419_o1566_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106960_118419_o1566_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[28]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f83a91f-8cc9-4b8b-a294-6586e7fd5660",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106961_118423_o229_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106961_118423_o229_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106961_118423_o229_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[31]/div/div[8]/fieldset/div/table/tbody/tr[3]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "aeb2b10b-9dcf-4b17-813a-90029c6680c9",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_dl",
+      "targets": [
+        ["id=z_dl", "id"],
+        ["css=#z_dl", "css:finder"],
+        ["xpath=//button[@id='z_dl']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cd449cf8-6f97-4c0b-9b28-3cc44e465647",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_d",
+      "targets": [
+        ["id=z_d", "id"],
+        ["css=#z_d", "css:finder"],
+        ["xpath=//button[@id='z_d']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/table/tbody/tr/td/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "eaa7dc8d-3dee-421d-9daf-f103a1289166",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "2fdcb1b6-d39f-4420-87ca-4f33a4afdc9c",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_e",
+      "targets": [
+        ["id=z_e", "id"],
+        ["css=#z_e", "css:finder"],
+        ["xpath=//d2l-button-icon[@id='z_e']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div[2]/div/div/div/div[2]/div/d2l-button-icon", "xpath:idRelative"],
+        ["xpath=//div[2]/div/d2l-button-icon", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5234d046-01e4-4322-a50e-19a5285e6372",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d9d34777-7f80-41b3-a6fc-a7981c2f3b06"]
+  }],
+  "urls": ["https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1"],
+  "plugins": []
+}
