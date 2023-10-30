@@ -1,0 +1,308 @@
+SeleniumIDE Code:
+
+{
+  "id": "b1e9bcdd-6ea3-4b16-b26b-ff7be38ca5a8",
+  "version": "2.0",
+  "name": "AC - QA Henrique/Lucas",
+  "url": "https://fecaf.brightspace.com/d2l/lms/quizzing/user/quiz_summary.d2l?shouldFocus=true&qi=42748&ou=17253",
+  "tests": [{
+    "id": "91eeb4ea-4d3d-4ebc-ae22-738377c53217",
+    "name": "AC - QA Henrique/Lucas",
+    "commands": [{
+      "id": "1fa2fdbb-0cdb-4716-9246-2e22da518fc3",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/lms/quizzing/user/quiz_summary.d2l?shouldFocus=true&qi=42748&ou=17253",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b1ae30ec-92cc-451d-a0bb-cb3e3359d0be",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "715x771",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "559668a2-5c6b-48d8-a549-31c1ac585975",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,723)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c0aaaa5e-4740-4def-9a2e-7a74bc1a7ed7",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Iniciar questionário!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "81e859fd-37e2-40c7-b9cb-749825dd8562",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "f340338a-f296-439e-8f0c-b59745f81a49",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": ""
+    }, {
+      "id": "32a8dcff-532a-4be9-86c0-68a5d09a0f66",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6df5f7c7-6809-405d-9587-7c6c8e66c90a",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2ac2c04-1b48-4bac-bdb2-9be765161cd5",
+      "comment": "",
+      "command": "type",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Henrique Ferreira da Silva RA:11667\\nLucas Alexandre Ferreira RA:20948"
+    }, {
+      "id": "923e3958-88ec-43ec-9908-4ae33be1bfa3",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//tr[5]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "95ac4c8c-b636-4818-85aa-a23e38364b7d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106955_118412_o1526_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106955_118412_o1526_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106955_118412_o1526_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[13]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec23404c-2ddb-4cb9-aec0-9c96b4d3f796",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106956_118414_o7318_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106956_118414_o7318_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106956_118414_o7318_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[16]/div/div[8]/fieldset/div/table/tbody/tr[3]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "47a26402-6791-4c61-b3ce-11931adedc43",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106957_118416_o6162_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106957_118416_o6162_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106957_118416_o6162_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[19]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3942e08e-dc39-4e01-92de-a39a0fc8ba33",
+      "comment": "",
+      "command": "click",
+      "target": "css=.dco:nth-child(36) .d2l-rowshadeonhover:nth-child(1) > .d_tl:nth-child(2)",
+      "targets": [
+        ["css=.dco:nth-child(36) .d2l-rowshadeonhover:nth-child(1) > .d_tl:nth-child(2)", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[22]/div/div[8]/fieldset/div/table/tbody/tr/td[2]", "xpath:idRelative"],
+        ["xpath=//div[22]/div/div[8]/fieldset/div/table/tbody/tr/td[2]", "xpath:position"],
+        ["xpath=//td[contains(.,'Verdadeiro')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "477d62bd-1238-477d-a8d5-22e9d6e3a9f2",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_ci",
+      "targets": [
+        ["id=z_ci", "id"],
+        ["css=#z_ci", "css:finder"],
+        ["xpath=//label[@id='z_ci']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/label", "xpath:idRelative"],
+        ["xpath=//div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/label", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "68bfb48a-de7b-4ca8-85f1-2019b5866448",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106960_118419_o1566_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106960_118419_o1566_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106960_118419_o1566_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[28]/div/div[8]/fieldset/div/table/tbody/tr[5]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "22c16502-56c8-4268-b4ca-377ce05d520d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106961_118423_o229_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106961_118423_o229_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106961_118423_o229_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[31]/div/div[8]/fieldset/div/table/tbody/tr[2]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e084936b-a2f4-414f-92b9-517f7219ff1a",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_dl",
+      "targets": [
+        ["id=z_dl", "id"],
+        ["css=#z_dl", "css:finder"],
+        ["xpath=//button[@id='z_dl']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "86453977-8fa2-48c2-9a50-6a276641e239",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_d",
+      "targets": [
+        ["id=z_d", "id"],
+        ["css=#z_d", "css:finder"],
+        ["xpath=//button[@id='z_d']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/table/tbody/tr/td/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cee21542-a95a-4afa-a262-51ffe576a7bb",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "cf0bec5a-28ba-4371-985f-3b141c43198e",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_dl",
+      "targets": [
+        ["id=z_dl", "id"],
+        ["css=#z_dl", "css:finder"],
+        ["xpath=//button[@id='z_dl']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bdd7d21d-61c0-4527-8c5a-96cc0eeaa8c1",
+      "comment": "",
+      "command": "click",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "206b5cf1-7735-433f-a7a6-7942585bd415",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_l",
+      "targets": [
+        ["id=z_l", "id"],
+        ["css=#z_l", "css:finder"],
+        ["xpath=//button[@id='z_l']", "xpath:attributes"],
+        ["xpath=//div[@id='z_k']/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Concluído')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4a2db153-c723-48f1-9131-ab61f8bd4271",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["91eeb4ea-4d3d-4ebc-ae22-738377c53217"]
+  }],
+  "urls": ["https://fecaf.brightspace.com/d2l/lms/quizzing/user/quiz_summary.d2l?shouldFocus=true&qi=42748&ou=17253"],
+  "plugins": []
+}
+
+Relatório de Teste:
+
+Relatório de Teste
+Informações Gerais:
+    • Nome do Projeto: Teste de Avaliação Continuada - QA
+    • Data do Teste: 30/10/2023
+    • Responsável pelo Teste: Henrique Ferreira, Lucas Ferreira
+    • Ambiente de Teste: Produção
+Resumo:
+Realização de teste com finalidade de conclusão de atividade continuada
+Objetivos do Teste:
+    • Gravar via Selenium IDE as funções a serem executadas
+    • Executar gravação e procurar por possíveis erros
+    • Confeccionar relatório com os resultados de estudo obtidos
+Escopo do Teste:
+Escrita em formulário online
+Seleção de alternativas corretas
+Resultados dos Testes:
+    • Funcionalidade A:
+        ◦ Selenium IDE conseguiu concluir a escrita com sucesso sem apresentar erros
+    • Funcionalidade B:
+        ◦ Selenium IDE conseguiu selecionar as alternativas corretas
+        ◦ Foi verificado demora severa na seleção de alguns elementos presentes na página
+Conclusão:
+Foi possível concluir que os resultados obtidos foram considerados satisfatórios pelos examinadores e apenas necessita de pequenos ajustes em sua construção e desempenho
+Assinaturas:
+Responsável pelo Teste: Henrique Ferreira da Silva___ Data: 30 de Outubro de 2023
+Supervisor do Projeto: Lucas Alexandre Ferreira____ Data: 30 de Outubro de 2023
+Observações Finais:
+Site utilizado para realizar o formulário apresenta problemas relacionados a instabilidade e elementos visuais com erros de formatação
