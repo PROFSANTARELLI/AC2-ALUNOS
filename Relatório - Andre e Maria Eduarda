@@ -1,0 +1,43 @@
+RElATÓRIO
+
+Maria Eduarda Araújo dos Santos  RA: 33461
+André do Prado Alves    RA: 34433
+Objetivos de Teste
+Os principais objetivos deste teste de software incluíram:
+Verificar se o software atende aos requisitos funcionais especificados.
+Identificar e relatar quaisquer defeitos ou problemas no software.
+Avaliar a usabilidade do software.
+Verificar se a funcionalidade de envio de atividades e formulários funciona conforme especificado. 
+Escopo de Teste
+O escopo deste teste incluiu as seguintes áreas:
+Preenchimento do formulário de atividades
+Envio do formulário de atividades
+Metodologia de Teste
+Os testes foram conduzidos utilizando uma combinação de técnicas manuais e automáticas. Foram criados casos de teste com base nos requisitos do software, e a equipe de teste seguiu esses casos para verificar o funcionamento adequado do software.
+Resultados dos Testes
+Durante o teste, foram identificados os seguintes resultados:
+Funcionalidades Testadas: Todas as funcionalidades testadas estavam funcionando conforme o esperado e atendiam aos requisitos especificados.
+Defeitos Encontrados: Defeito 1 - Ao realizar a automação para abrir o formulário, foi necessário ajustes no script para o botão de “	Iniciar Formulário” ser encontrado. 
+Usabilidade: Satisfatória
+
+
+Observações
+
+
+O formulário foi enviado 2 vezes, sendo a primeira manualmente e a segunda utilizando a automação do Selenium IDE. 
+Tivemos problemas para fazer com que a automação desse um click no botão para iniciar o formulário mas foi corrigido no Script. 
+Não foi possível ver a nota do questionário pois as notas não ficaram disponíveis. 
+
+
+Recomendações
+Com base nos resultados dos testes, as seguintes recomendações são feitas:
+Adicionar um ID no button de ‘Iniciar formulário” antes do lançamento.
+Realizar testes de desempenho adicionais, se aplicável.
+Conclusão
+O software AVA foi testado de acordo com os requisitos especificados, e os resultados indicam que ele está pronto para a fase de lançamento, desde que os defeitos identificados sejam corrigidos. O software atende às funcionalidades definidas e tem um desempenho satisfatório.
+Anexos
+Registros de Teste (Script executado)
+
+
+Este relatório de teste de software fornece uma visão geral dos testes realizados, dos resultados obtidos e das recomendações para o software em questão. Qualquer defeito encontrado deve ser documentado e comunicado à equipe de desenvolvimento para que possa ser tratado antes do lançamento.
+
