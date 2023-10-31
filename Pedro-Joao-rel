@@ -1,0 +1,32 @@
+Relatório de Teste de Software
+Resumo
+Este relatório descreve os resultados do teste do software SELENIUM IDE, versão 1.0, conduzido em 30/10/2023. O objetivo principal deste teste foi avaliar a funcionalidade e qualidade do software em relação aos requisitos especificados.
+Equipe de Teste
+    • Joao Paulo Brito Sena - 40540
+    • Pedro Silva de Araujo - 23170
+Objetivos de Teste
+Os principais objetivos deste teste de software incluíram:
+    • Verificar se o software atende aos requisitos.
+    • Identificar e relatar quaisquer defeitos.
+Escopo de Teste
+O escopo deste teste incluiu as seguintes áreas:
+    • Testar o preenchimento do formulário da AC2
+    • navegador google, Selenium IDE, GitHub
+Metodologia de Teste
+Os testes foram conduzidos utilizando uma combinação de técnicas manuais e automáticas. Foram criados casos de teste com base nos requisitos do software, e a equipe de teste seguiu esses casos para verificar o funcionamento adequado do software.
+Resultados dos Testes
+Durante o teste, foram identificados os seguintes resultados:
+    • O que testamos: Preenchimento dos campos do formulário.
+    • Defeitos Encontrados: Durante o passo relativo=pai 3 não estava dando continuidade ao processo de preenchimento - Grave - Aguardando correção 
+    • Usabilidade: Aceitável 
+Recomendações
+Com base nos resultados dos testes, as seguintes recomendações são feitas:
+    • Corrigir todos os defeitos identificados antes do lançamento.
+    • Realizar testes de desempenho adicionais, se aplicável.
+    • Considerar melhorias na interface do usuário para aprimorar a usabilidade.
+Conclusão
+O software Selenium IDE junto com o formulário da FECAF da AC2 da aula de QA em 30/10/2023 foi testado de acordo com os requisitos especificados, e os resultados indicam que ele está pronto para a fase de lançamento, desde que os defeitos identificados sejam corrigidos. O software atende às funcionalidades definidas e tem um desempenho satisfatório.
+Anexos
+    • Código da execução de teste
+    • Registros de Teste
+Este relatório de teste de software fornece uma visão geral dos testes realizados, dos resultados obtidos e das recomendações para o software em questão. Qualquer defeito encontrado deve ser documentado e comunicado à equipe de desenvolvimento para que possa ser tratado antes do lançamento.
