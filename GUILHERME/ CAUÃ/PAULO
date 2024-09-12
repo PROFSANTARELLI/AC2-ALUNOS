@@ -1,0 +1,55 @@
+Resumo do Teste: 
+O teste automático
+
+Detalhes do Teste: Abri Selenium, coloquei para gravar e preenchi questões.
+
+Ambiente de Teste: Selenium IDE
+
+Navegador Utilizado: google
+
+Ações Realizadas:
+
+O teste automatizado realizou as seguintes ações:
+Abertura de URL da página
+Seleção e alternância entre frames na página.
+Preenchimento de campos de texto
+Seleção de opções em formulários.
+Encerramento do questionário.
+Resultado da Execução:
+
+Resultados Obtidos: 
+Objetivo: 
+Realizar o teste automatizado do preenchimento das questões
+
+Preparação do Ambiente:
+
+abrir
+Acesse a URL específica do questionário na plataforma Brightspace.
+Interações com a página:
+
+Espere até que o botão "Iniciar questionário!" seja
+Clique no botão "Iniciar questionário"
+Selecionar a moldura adequada:
+
+Alternar
+Preenchimento de Campos:
+
+Localizar e preencher o campo de texto identificado
+Seleção de opções:
+
+Clique nas opções relevantes identificadas 
+
+Conclusão e Encerramento do Questionário:
+
+Após
+Validação dos Resultados:
+
+Verifique se o questionário foi preenchido corretamente.
+Capturar capturas de tela dos passos críticos, se aplicável.
+
+Observações:
+
+Verifique se está preenchidos
+Conclusão:
+
+O teste foi concluído
