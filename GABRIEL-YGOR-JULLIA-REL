@@ -1,0 +1,40 @@
+Plano de Teste
+
+“AVA”
+
+Histórico das alterações
+Dados	Versão	Descrição	Autor(a)
+30/10/2023	1.0	Teste Inicial	Gabriel, Ygor, Jullia
+
+
+2 - Requisitos para testar
+Foi utilizado o acesso à internet, alem de computadores e notebooks. E tinha como principal requisito a utilização do SELENIUM IDE.
+
+
+3 - Tipos de teste
+Foi realizado um teste via web, para realizar a atividade avaliativa 2
+•	Teste de interface de usuário;
+•	Teste de desempenho;
+
+3.1 - Métodos de Classe
+
+Técnica:	(x) manual	(x) automático
+
+Estágio do teste	Integração ( )	Sistema (x)	Unidade ()	Aceitação (x)
+
+Abordagem do teste	Caixa branca ()	Caixa preta (x)
+
+Responsável(é)	Gabriel Xavier, Jullia Gardin, Ygor Pires
+
+4 - Recursos
+Foi utilizado recursos de Automação (SELENIUM IDE)
+
+4.1 - Ambiente de teste - Software e Hardware
+Servidor WEB
+
+4.2 - Ferramenta de teste
+SELENIUM IDE
+
+5 – Cronograma
+Tipo de teste	Duração	dados de início	dados de termo
+Automação	1:20	30/10/2023	30/10/2023
