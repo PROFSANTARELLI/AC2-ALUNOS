@@ -1,0 +1,42 @@
+Planejamento de teste:
+
+Objetivo: 
+Concluir a gravação do questionário
+
+Pré-requisitos:
+
+Conta Sellenium.
+Conta no GitHub.
+Acesso à pergunta.
+
+Passos do Teste:
+
+Iniciar a gravação;
+Responder ao Questionário;
+Parar Gravação;
+Salvar a Gravação;
+
+Clique em "Salvar" no Selenium IDE e escolha um local para salvar o arquivo de script de automação.
+Forneça um nome
+Carregar o Script no GitHub:
+
+Faça login na sua
+Crie um novo repositório ou use um repositório existente, onde desejar armazenar o script.
+Carregue o arquivo de
+Compartilhe o link do GitHub:
+
+Após carregar o arquivo
+Enviar o Link para o Professor:
+
+Verificação pelo Professor:
+
+O professor deverá acessar o link e verificar o código gerado.
+Critérios de Aceitação:
+
+O questionário foi respondido corretamente durante um
+O arquivo de script de automação 
+
+Pós-teste:
+
+O projeto é considerado finalizado após a resolução das questões e gravação 
+
