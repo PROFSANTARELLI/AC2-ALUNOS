@@ -1,18 +1,23 @@
-            - nome: Configurar ambiente Go
-  usos: ações/setup-go@v5.0.2
+            - nome: Carregar um artefato de construção
+  usos: ações/upload-artifact@v3.2.1-node20
   com:
-    # A versão Go para baixar (se necessário) e usar. Suporta semver spec e ranges. Certifique-se de colocar esta opção entre aspas simples.
-    go-version: # opcional
-    # Caminho para o arquivo go.mod ou go.work.
-    go-version-file: # opcional
-    # Defina esta opção como verdadeira se quiser que a ação sempre verifique a versão mais recente disponível que satisfaça a especificação da versão
-    check-latest: # opcional
-    # Usado para puxar distribuições Go de go-versions. Como há um padrão, isso normalmente não é fornecido pelo usuário. Ao executar esta ação em github.com, o valor padrão é suficiente. Ao executar em GHES, você pode passar um token de acesso pessoal para github.com se estiver enfrentando limitação de taxa.
-    token: # opcional, o padrão é ${{ github.server_url == 'https://github.com' && github.token || '' }}
-    # Usado para especificar se o cache é necessário. Defina como true, se você quiser habilitar o cache.
-    cache: # opcional, o padrão é verdadeiro
-    # Usado para especificar o caminho para um arquivo de dependência - go.sum
-    cache-dependency-path: # opcional
-    # Arquitetura de destino para uso do Go. Exemplos: x86, x64. Usará a arquitetura do sistema por padrão.
-    arquitetura: # opcional
+    # Nome do artefato
+    nome: # opcional, o padrão é artefato
+    # Um arquivo, diretório ou padrão curinga que descreve o que carregar
+    caminho:
+    # O comportamento desejado se nenhum arquivo for encontrado usando o caminho fornecido.
+Opções disponíveis:
+  warn: Emite um aviso, mas não falha na ação
+  erro: falha na ação com uma mensagem de erro
+  ignorar: Não emite nenhum aviso ou erro, a ação não falha
+
+    if-no-files-found: # opcional, o padrão é avisar
+    # Duração após a qual o artefato irá expirar em dias. 0 significa usar retenção padrão.
+Mínimo de 1 dia. Máximo de 90 dias, a menos que seja alterado na página de configurações do repositório.
+
+    dias de retenção: # opcional
+    # Se verdadeiro, os arquivos ocultos serão incluídos no artefato carregado. Se falso, os arquivos ocultos serão excluídos do artefato carregado.
+
+    include-hidden-files: # opcional, o padrão é falso
+          
           
