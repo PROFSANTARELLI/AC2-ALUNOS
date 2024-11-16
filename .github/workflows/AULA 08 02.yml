@@ -36,4 +36,4 @@ jobs:
         run: |
           echo "Adicionar outras ações para construir,"
           echo "teste de eco e implante seu projeto."
-    # Executa um conjunto de comandos usando o shell do runner
+# Executa um conjunto de comandos usando o shell do runner
