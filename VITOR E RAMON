@@ -1,0 +1,1432 @@
+"id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": "" "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+    }, {
+      "id": "9b8d1be6-bc5b-4186-9668-4b7cddfa05f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//tr[3]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "59b6640a-0ed2-4582-8ebd-78c8c239dbcd",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106955_118412_o1526_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106955_118412_o1526_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106955_118412_o1526_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[13]/div/div[8]/fieldset/div/table/tbody/tr[5]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ], "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequence "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": "" "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+    }, {
+      "id": "9b8d1be6-bc5b-4186-9668-4b7cddfa05f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-bloViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875", "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.br "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": "" "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+    }, {
+      "id": "9b8d1be6-bc5b-4186-9668-4b7cddfa05f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-bloightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": "" "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+    }, {
+      "id": "9b8d1be6-bc5b-4186-9668-4b7cddfa05f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-blo
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": "" "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+    }, {
+      "id": "9b8d1be6-bc5b-4186-9668-4b7cddfa05f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106954_118411_o6349_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106954_118411_o6349_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106954_118411_o6349_id']/d2l-html-blo
+      "value": ""
+    }, {
+      "id": "537bd79e-97a7-4cf7-baa0-d02d36a6e906",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1440)",
+      "targets": [], "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequenc "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",es.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, { "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [ "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd", "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, { "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd", "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [ "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, { "id": "26ece24d-16e8-4d8c-b956-8c781ff687a5",
+  "version": "2.0",
+  "name": "alvins e os esquilos ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "d9679f55-5d40-4394-96e9-b292ce103cfc",
+    "name": "tftft",
+    "commands": [{
+      "id": "dbec9448-dad6-4e42-a8b2-cb5351677d36",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89e4f9fe-7a4a-4d90-b5e6-8023f893f3bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x708",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "id": "aa3bd8a6-67b3-4e4e-b8d4-2047c3e3ae7b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "a4103bc4-453a-4e5c-b094-c9b5de812875",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "a7c260cf-4586-4550-91ab-bb3799af7e56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continuar questionário...')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4fe8904-4242-4b4c-8193-8a3432b619b5",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "bf7a8aff-b836-422e-a332-3c9f555709ed",
+      "comment": "",
+      "command": "selectFrame",
+      "value": ""
+    }, {
+      "id": "b654d9c2-99bd-45c9-8bde-2634a7934414",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106956_118414_o1894_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106956_118414_o1894_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106956_118414_o1894_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[16]/div/div[8]/fieldset/div/table/tbody/tr[4]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "625d5a3b-d13f-40df-a953-33c97e277fea",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106957_118416_o6162_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106957_118416_o6162_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106957_118416_o6162_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[19]/div/div[8]/fieldset/div/table/tbody/tr[4]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "40a5c428-2742-433f-8712-aeee3568ca70",
+      "comment": "",
+      "command": "click",
+      "target": "css=.dco:nth-child(36) .d2l-rowshadeonhover:nth-child(1) > .d_tl:nth-child(2)",
+      "targets": [
+        ["css=.dco:nth-child(36) .d2l-rowshadeonhover:nth-child(1) > .d_tl:nth-child(2)", "css:finder"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[22]/div/div[8]/fieldset/div/table/tbody/tr/td[2]", "xpath:idRelative"],
+        ["xpath=//div[22]/div/div[8]/fieldset/div/table/tbody/tr/td[2]", "xpath:position"],
+        ["xpath=//td[contains(.,'Verdadeiro')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c5f1ca1-f813-46db-9222-7fb7a04f7d6d",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106959_118421_575774_id",
+      "targets": [
+        ["id=tAtom106959_118421_575774_id", "id"],
+        ["css=#tAtom106959_118421_575774_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106959_118421_575774_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ba1c58e9-eaf5-4dd5-b471-231c945387fe",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106960_118419_o1566_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106960_118419_o1566_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106960_118419_o1566_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[28]/div/div[8]/fieldset/div/table/tbody/tr[3]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a194788d-d42a-4901-b7d9-a958cb209024",
+      "comment": "",
+      "command": "click",
+      "target": "css=#lblAtom_106961_118423_o229_id > d2l-html-block",
+      "targets": [
+        ["css=#lblAtom_106961_118423_o229_id > d2l-html-block", "css:finder"],
+        ["xpath=//div[@id='lblAtom_106961_118423_o229_id']/d2l-html-block", "xpath:idRelative"],
+        ["xpath=//div[31]/div/div[8]/fieldset/div/table/tbody/tr[4]/td[2]/div/div/div/label/div/d2l-html-block", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86205c76-16a1-4f6e-b1e7-3fff97c61120",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_dl",
+      "targets": [
+        ["id=z_dl", "id"],
+        ["css=#z_dl", "css:finder"],
+        ["xpath=//button[@id='z_dl']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3c6c9ec4-27d0-4a3f-bcf5-c22bb3ad464b",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_d",
+      "targets": [
+        ["id=z_d", "id"],
+        ["css=#z_d", "css:finder"],
+        ["xpath=//button[@id='z_d']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/table/tbody/tr/td/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5e723a3d-054f-4a0a-bb6d-56764987b7ab",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d9679f55-5d40-4394-96e9-b292ce103cfc"]
+  }],
+  "urls": [],
+  "plugins": []
+}
