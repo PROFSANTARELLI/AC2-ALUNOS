@@ -1,0 +1,248 @@
+{
+  "id": "4c0c88b3-2120-4282-a18a-cf808c0395c2",
+  "version": "2.0",
+  "name": "TESTE JOAO PEDRO ",
+  "url": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+  "tests": [{
+    "id": "1b1ed9df-ef99-45e6-bde9-39952eca613c",
+    "name": "teste 2",
+    "commands": [{
+      "id": "2a7230be-05db-47ec-8b04-10577f8820a8",
+      "comment": "",
+      "command": "open",
+      "target": "https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bb0851d0-5e29-4559-a6ee-487614f973ce",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x546",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7126394a-be39-42d9-9b2a-7c34058de684",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "d0a59f1e-a14a-44df-b811-a3544c8447d6",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=",
+      "targets": [
+        ["index="]
+      ],
+      "value": ""
+    }, {
+      "id": "14fda0e2-3bb2-433a-955e-7e2163bbdcf8",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_a",
+      "targets": [
+        ["id=z_a", "id"],
+        ["css=#z_a", "css:finder"],
+        ["xpath=//button[@id='z_a']", "xpath:attributes"],
+        ["xpath=//div[@id='d_content_r']/d2l-floating-buttons/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Iniciar questionário!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7336015c-2240-475b-99bb-d69c85730482",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "b0e355f0-5e87-447d-834f-eec44d50669a",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=3",
+      "targets": [
+        ["index=3"]
+      ],
+      "value": ""
+    }, {
+      "id": "99fba5ba-82bd-46df-a73f-91ac6b5f6e18",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9129b688-2f0c-442f-bd95-ec1eeec9c59e",
+      "comment": "",
+      "command": "type",
+      "target": "id=z_j",
+      "targets": [
+        ["id=z_j", "id"],
+        ["name=tAtom106949_118406", "name"],
+        ["css=#z_j", "css:finder"],
+        ["xpath=//textarea[@id='z_j']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[5]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Pedro Silva de Araujo - 23170 \\nJoao Paulo Brito Sena - 40540"
+    }, {
+      "id": "ad570e74-98e5-40fd-af09-fa557acc62ec",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106954_118411_o6349_id",
+      "targets": [
+        ["id=tAtom106954_118411_o6349_id", "id"],
+        ["css=#tAtom106954_118411_o6349_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106954_118411_o6349_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[10]/div/div[8]/fieldset/div/table/tbody/tr[5]/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//tr[5]/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d65b297f-e7ef-4500-827e-911c9fbc9f6d",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106955_118412_o1526_id",
+      "targets": [
+        ["id=tAtom106955_118412_o1526_id", "id"],
+        ["name=tAtom106955_118412", "name"],
+        ["css=#tAtom106955_118412_o1526_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106955_118412_o1526_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[13]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[13]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d1bbdc36-9ceb-4481-a97e-d4af5c9c7c58",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106956_118414_o1894_id",
+      "targets": [
+        ["id=tAtom106956_118414_o1894_id", "id"],
+        ["css=#tAtom106956_118414_o1894_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106956_118414_o1894_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[16]/div/div[8]/fieldset/div/table/tbody/tr[4]/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[16]/div/div[8]/fieldset/div/table/tbody/tr[4]/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "afdfeb0d-14e6-4c30-a25f-29ecb902db78",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106957_118416_o6162_id",
+      "targets": [
+        ["id=tAtom106957_118416_o6162_id", "id"],
+        ["css=#tAtom106957_118416_o6162_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106957_118416_o6162_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[19]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[19]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cd12515c-9738-4c4c-ba27-b4e5c06eab5f",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106958_118422_575775_id",
+      "targets": [
+        ["id=tAtom106958_118422_575775_id", "id"],
+        ["name=tAtom106958_118422", "name"],
+        ["css=#tAtom106958_118422_575775_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106958_118422_575775_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[22]/div/div[8]/fieldset/div/table/tbody/tr/td/input", "xpath:idRelative"],
+        ["xpath=//td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "78a6ab48-35b0-4aa3-af7d-3d627ce33815",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106959_118421_575774_id",
+      "targets": [
+        ["id=tAtom106959_118421_575774_id", "id"],
+        ["css=#tAtom106959_118421_575774_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106959_118421_575774_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//div[25]/div/div[8]/fieldset/div/table/tbody/tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b3251623-5c06-44a7-9497-72078c17e108",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106960_118419_o1566_id",
+      "targets": [
+        ["id=tAtom106960_118419_o1566_id", "id"],
+        ["css=#tAtom106960_118419_o1566_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106960_118419_o1566_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[28]/div/div[8]/fieldset/div/table/tbody/tr[5]/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[28]/div/div[8]/fieldset/div/table/tbody/tr[5]/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d42db640-bc5a-4de5-9c91-771f67d5da8b",
+      "comment": "",
+      "command": "click",
+      "target": "id=tAtom106961_118423_o229_id",
+      "targets": [
+        ["id=tAtom106961_118423_o229_id", "id"],
+        ["name=tAtom106961_118423", "name"],
+        ["css=#tAtom106961_118423_o229_id", "css:finder"],
+        ["xpath=//input[@id='tAtom106961_118423_o229_id']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[31]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[31]/div/div[8]/fieldset/div/table/tbody/tr/td/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "41374629-cd49-45c6-b92c-76de5f13390a",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_dl",
+      "targets": [
+        ["id=z_dl", "id"],
+        ["css=#z_dl", "css:finder"],
+        ["xpath=//button[@id='z_dl']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/div[33]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "53b6699b-f4bd-4231-83af-56d91db67d56",
+      "comment": "",
+      "command": "click",
+      "target": "id=z_d",
+      "targets": [
+        ["id=z_d", "id"],
+        ["css=#z_d", "css:finder"],
+        ["xpath=//button[@id='z_d']", "xpath:attributes"],
+        ["xpath=//form[@id='d2l_form']/div/div/table/tbody/tr/td/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Encerrar questionário')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "34f3a5f6-8918-4e06-9e48-e2d845a985ce",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://fecaf.brightspace.com/d2l/le/enhancedSequenceViewer/17253?url=https%3A%2F%2Fcabd6a42-976a-4fa2-80a8-36b0ec721d14.sequences.api.brightspace.com%2F17253%2Factivity%2F213251%3FfilterOnDatesAndDepth%3D1"],
+  "plugins": []
+}
